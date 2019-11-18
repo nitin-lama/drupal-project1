@@ -1,0 +1,6 @@
+<?php
+
+function custom_content_page_attachments(array &$attachments) {
+  // Unconditionally attach an asset to the page.
+  $attachments['#attached']['library'][] = 'custom_content/custom_library';
+}

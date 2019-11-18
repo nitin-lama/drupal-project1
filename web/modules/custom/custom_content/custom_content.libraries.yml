@@ -1,0 +1,4 @@
+custom_library:
+  css:
+    theme:
+      css/custom.css: {}

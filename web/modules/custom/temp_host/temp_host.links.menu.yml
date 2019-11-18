@@ -1,0 +1,6 @@
+temp_host.admin_settings_form:
+  title: 'Hosting URL configuration'
+  route_name: temp_host.admin_settings_form
+  description: 'Provides external domain'
+  parent: system.admin_config_development
+  weight: 99

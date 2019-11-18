@@ -1,0 +1,5 @@
+name: ELX Content API
+description: Provides ELX content.
+package: custom
+type: module
+core: 8.x

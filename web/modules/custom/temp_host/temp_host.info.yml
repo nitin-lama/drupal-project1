@@ -1,0 +1,5 @@
+name: Custom Host
+description: Config form to create host url.
+package: custom
+type: module
+core: 8.x

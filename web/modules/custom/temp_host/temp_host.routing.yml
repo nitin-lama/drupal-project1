@@ -1,0 +1,9 @@
+temp_host.admin_settings_form:
+  path: '/admin/config/host/adminsettings'
+  defaults:
+    _form: '\Drupal\temp_host\Form\TempHost'
+    _title: 'Custom Host'
+  requirements:
+    _permission: 'access administration pages'
+  options:
+    _admin_route: TRUE

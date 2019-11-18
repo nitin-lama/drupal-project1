@@ -1,0 +1,7 @@
+custom_content.Filter:
+  path: '/dashboard'
+  defaults:
+    _form: '\Drupal\custom_content\Form\Filter'
+    _title: 'Dashboard'
+  requirements:
+    _permission: 'access content'
